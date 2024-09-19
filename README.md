@@ -93,7 +93,3 @@ The Patient Assessment System is a Django-based web application designed to allo
   - `GET /api/assessments/{id}/`
   - `PUT /api/assessments/{id}/`
   - `DELETE /api/assessments/{id}/`
-
-## Testing
-
-To run the tests, use the following command:
